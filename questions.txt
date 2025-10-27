@@ -1,0 +1,21 @@
+what is the capital of india ?
+delhi
+mumbai
+kolkata
+chennai
+a
+
+what is 3+2 ?
+4
+3
+2
+5
+d
+
+which of these is not a language ?
+c
+python
+anaconda
+java
+c
+
